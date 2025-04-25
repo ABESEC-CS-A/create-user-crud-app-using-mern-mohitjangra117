@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header1,.footer1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size:3rem;
+}
+
+.header2{
+    background-color: rgb(177, 174, 174);
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.footer1 {
+    background-color: black;
+    color: white;
+    margin-top: auto;
+    text-align: center;
+    font-size: 2rem;
+}
